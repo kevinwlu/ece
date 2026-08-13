@@ -1,7 +1,7 @@
-# Seminar in Electrical and Computer Engineering
+# Seminar in Electrical and Computer Engineering (ECE)
 * [Seminar](https://en.wikipedia.org/wiki/Seminar)
-* [Electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering)
-* [Computer engineering](https://en.wikipedia.org/wiki/Computer_engineering)
+* [Electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering) (EE)
+* [Computer engineering](https://en.wikipedia.org/wiki/Computer_engineering) (CPE)
 ## Seminar 1: Information Theory
 * [Information theory](https://en.wikipedia.org/wiki/Information_theory)
 ## Seminar 2: Control Theory
