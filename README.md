@@ -1,7 +1,14 @@
 # Seminar in Electrical and Computer Engineering (ECE)
 * [Seminar](https://en.wikipedia.org/wiki/Seminar)
 * [Electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering) (EE)
+  * [Electron](https://en.wikipedia.org/wiki/Electron)
+  * [Amber](https://en.wikipedia.org/wiki/Amber)
+  * [Insulator (electricity)](https://en.wikipedia.org/wiki/Insulator_(electricity))
+  * [Static electricity](https://en.wikipedia.org/wiki/Static_electricity)
 * [Computer engineering](https://en.wikipedia.org/wiki/Computer_engineering) (CPE)
+  * [Computation](https://en.wikipedia.org/wiki/Computation)
+  * [Computer (occupation)](https://en.wikipedia.org/wiki/Computer_(occupation))
+  * [Computer](https://en.wikipedia.org/wiki/Computer)
 ## Seminar 1: Information Theory
 * [Information theory](https://en.wikipedia.org/wiki/Information_theory)
 ## Seminar 2: Control Theory
