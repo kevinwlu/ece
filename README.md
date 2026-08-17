@@ -26,7 +26,7 @@
 ## Seminar 7: Internet of Things
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
 ## Seminar 8: Industry
-* 
+* [IEEE Industry Engagement Committee](https://www.ieee.org/ieee-industry-engagement-committee) (IEC)
 ## Seminar 9: Career
 * 
 ## Seminar 10: Research Ethics
@@ -38,4 +38,4 @@
 ## Seminar 13: Artificial Intelligence
 * 
 ## Seminar 14: Reflection
-* 
+* [Robert W. Lucky](https://en.wikipedia.org/wiki/Robert_W._Lucky) 1936&mdash;2022
