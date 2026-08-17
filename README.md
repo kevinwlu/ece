@@ -11,6 +11,7 @@
   * [Computer](https://en.wikipedia.org/wiki/Computer)
 ## Seminar 1: Information Theory
 * [Information theory](https://en.wikipedia.org/wiki/Information_theory)
+* [*A Symbolic Analysis of Relay and Switching Circuits*](https://en.wikipedia.org/wiki/A_Symbolic_Analysis_of_Relay_and_Switching_Circuits)
 * [*A Mathematical Theory of Communication*](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)
 ## Seminar 2: Control Theory
 * [Control theory](https://en.wikipedia.org/wiki/Control_theory)
