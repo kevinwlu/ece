@@ -1,5 +1,6 @@
 # Seminar in Electrical and Computer Engineering (ECE)
 * [Seminar](https://en.wikipedia.org/wiki/Seminar)
+  * [Seedbed](https://en.wikipedia.org/wiki/Seedbed)
 * [Electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering) (EE)
   * [Electron](https://en.wikipedia.org/wiki/Electron)
   * [Amber](https://en.wikipedia.org/wiki/Amber)
