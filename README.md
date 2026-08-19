@@ -16,6 +16,7 @@
 * [*A Mathematical Theory of Communication*](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)
 ## Seminar 2: Control Theory
 * [Control theory](https://en.wikipedia.org/wiki/Control_theory)
+* [Stability theory](https://en.wikipedia.org/wiki/Stability_theory)
 ## Seminar 3: Power Systems
 * [Electric power system](https://en.wikipedia.org/wiki/Electric_power_system)
 ## Seminar 4: Wireless Communication Systems
