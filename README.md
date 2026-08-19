@@ -19,25 +19,13 @@
 * [Stability theory](https://en.wikipedia.org/wiki/Stability_theory)
 ## Seminar 3: Power Systems
 * [Electric power system](https://en.wikipedia.org/wiki/Electric_power_system)
+* [Three-phase electric power](https://en.wikipedia.org/wiki/Three-phase_electric_power)
 ## Seminar 4: Wireless Communication Systems
 * [Wireless](https://en.wikipedia.org/wiki/Wireless)
+* [MIMO](https://en.wikipedia.org/wiki/MIMO)
 ## Seminar 5: Information Networks
 * [Computer network](https://en.wikipedia.org/wiki/Computer_network)
 ## Seminar 6: Sensor Networks
 * [Wireless sensor network](https://en.wikipedia.org/wiki/Wireless_sensor_network)
 ## Seminar 7: Internet of Things
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
-## Seminar 8: Industry
-* [IEEE Industry Engagement Committee](https://www.ieee.org/ieee-industry-engagement-committee) (IEC)
-## Seminar 9: Career
-* 
-## Seminar 10: Research Ethics
-* 
-## Seminar 11: Patents
-* 
-## Seminar 12: Standards
-* 
-## Seminar 13: Artificial Intelligence
-* 
-## Seminar 14: Reflection
-* [Robert W. Lucky](https://en.wikipedia.org/wiki/Robert_W._Lucky) 1936&mdash;2022
