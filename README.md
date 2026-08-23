@@ -12,6 +12,10 @@
   * [Computer](https://en.wikipedia.org/wiki/Computer)
 ## Seminar 1: Information Theory
 * [Information theory](https://en.wikipedia.org/wiki/Information_theory)
+* [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) 1916&mdash;2001
+* [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
+* [Channel capacity](https://en.wikipedia.org/wiki/Channel_capacity)
+* [Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory))
 * [*A Symbolic Analysis of Relay and Switching Circuits*](https://en.wikipedia.org/wiki/A_Symbolic_Analysis_of_Relay_and_Switching_Circuits)
 * [*A Mathematical Theory of Communication*](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)
 ## Seminar 2: Control Theory
