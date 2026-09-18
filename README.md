@@ -21,6 +21,9 @@
 ## Seminar 2: Control Theory
 * [Control theory](https://en.wikipedia.org/wiki/Control_theory)
 * [Stability theory](https://en.wikipedia.org/wiki/Stability_theory)
+* [Pafnuty Chebyshev](https://en.wikipedia.org/wiki/Pafnuty_Chebyshev) 1821&mdash;1894
+* [Andrey Markov](https://en.wikipedia.org/wiki/Andrey_Markov) 1856&mdash;1922
+* [Aleksandr Lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov) 1857&mdash;1918
 ## Seminar 3: Power Systems
 * [Electric power system](https://en.wikipedia.org/wiki/Electric_power_system)
 * [Three-phase electric power](https://en.wikipedia.org/wiki/Three-phase_electric_power)
