@@ -18,6 +18,7 @@
 * [Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory))
 * [*A Symbolic Analysis of Relay and Switching Circuits*](https://en.wikipedia.org/wiki/A_Symbolic_Analysis_of_Relay_and_Switching_Circuits)
 * [*A Mathematical Theory of Communication*](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)
+* [IEEE Information Theory Society](https://www.itsoc.org/)
 ## Seminar 2: Control Theory
 * [Control theory](https://en.wikipedia.org/wiki/Control_theory)
 * [Stability theory](https://en.wikipedia.org/wiki/Stability_theory)
@@ -26,6 +27,7 @@
 * [Aleksandr Lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov) 1857&mdash;1918
 * [Harry Nyquist](https://en.wikipedia.org/wiki/Harry_Nyquist) 1889&mdash;1976
 * [Hendrik Wade Bode](https://en.wikipedia.org/wiki/Hendrik_Wade_Bode) 1905&mdash;1982
+* [IEEE Control Systems Society](https://www.ieeecss.org/) (CSS)
 ## Seminar 3: Power Systems
 * [Electric power system](https://en.wikipedia.org/wiki/Electric_power_system)
 * [Three-phase electric power](https://en.wikipedia.org/wiki/Three-phase_electric_power)
