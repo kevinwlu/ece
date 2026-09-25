@@ -19,6 +19,7 @@
 * [*A Symbolic Analysis of Relay and Switching Circuits*](https://en.wikipedia.org/wiki/A_Symbolic_Analysis_of_Relay_and_Switching_Circuits)
 * [*A Mathematical Theory of Communication*](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)
 * [IEEE Information Theory Society](https://www.itsoc.org/)
+* [Robert G. Gallager](https://en.wikipedia.org/wiki/Robert_G._Gallager)
 ## Seminar 2: Control Theory
 * [Control theory](https://en.wikipedia.org/wiki/Control_theory)
 * [Stability theory](https://en.wikipedia.org/wiki/Stability_theory)
