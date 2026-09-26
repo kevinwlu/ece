@@ -6,6 +6,8 @@
   * [Amber](https://en.wikipedia.org/wiki/Amber)
   * [Insulator (electricity)](https://en.wikipedia.org/wiki/Insulator_(electricity))
   * [Static electricity](https://en.wikipedia.org/wiki/Static_electricity)
+  * [Network analysis (electrical circuits)](https://en.wikipedia.org/wiki/Network_analysis_(electrical_circuits))
+  * [Charles Proteus Steinmetz](https://en.wikipedia.org/wiki/Charles_Proteus_Steinmetz) 1865&mdash;1923
 * [Computer engineering](https://en.wikipedia.org/wiki/Computer_engineering) (CPE)
   * [Computation](https://en.wikipedia.org/wiki/Computation)
   * [Computer (occupation)](https://en.wikipedia.org/wiki/Computer_(occupation))
