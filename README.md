@@ -23,6 +23,7 @@
 ## Seminar 2: Control Theory
 * [Control theory](https://en.wikipedia.org/wiki/Control_theory)
 * [Stability theory](https://en.wikipedia.org/wiki/Stability_theory)
+* [Bang–bang control](https://en.wikipedia.org/wiki/Bang%E2%80%93bang_control)
 * [Pafnuty Chebyshev](https://en.wikipedia.org/wiki/Pafnuty_Chebyshev) 1821&mdash;1894
 * [Andrey Markov](https://en.wikipedia.org/wiki/Andrey_Markov) 1856&mdash;1922
 * [Aleksandr Lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov) 1857&mdash;1918
@@ -31,7 +32,20 @@
 * [IEEE Control Systems Society](https://www.ieeecss.org/) (CSS)
 ## Seminar 3: Power Systems
 * [Electric power system](https://en.wikipedia.org/wiki/Electric_power_system)
+* [War of the currents](https://en.wikipedia.org/wiki/War_of_the_currents)
+* [Transformer](https://en.wikipedia.org/wiki/Transformer)
+* [Electricity generation](https://en.wikipedia.org/wiki/Electricity_generation)
+* [Electric power transmission](https://en.wikipedia.org/wiki/Electric_power_transmission)
+  * [Transmission tower](https://en.wikipedia.org/wiki/Transmission_tower)
+* [Electric power distribution](https://en.wikipedia.org/wiki/Electric_power_distribution)
+* [Single-phase electric power](https://en.wikipedia.org/wiki/Single-phase_electric_power)
+  * [Single-wire earth return](https://en.wikipedia.org/wiki/Single-wire_earth_return) (SWER)
+  * [Split-phase electric power](https://en.wikipedia.org/wiki/Split-phase_electric_power)
+* [Two-phase electric power](https://en.wikipedia.org/wiki/Two-phase_electric_power)
 * [Three-phase electric power](https://en.wikipedia.org/wiki/Three-phase_electric_power)
+* [Home energy storage](https://en.wikipedia.org/wiki/Home_energy_storage)
+* [Tesla Powerwall](https://en.wikipedia.org/wiki/Tesla_Powerwall)
+* [IEEE Power & Energy Society](https://en.wikipedia.org/wiki/IEEE_Power_%26_Energy_Society) (PES)
 ## Seminar 4: Wireless Communication Systems
 * [Wireless](https://en.wikipedia.org/wiki/Wireless)
 * [MIMO](https://en.wikipedia.org/wiki/MIMO)
