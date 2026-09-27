@@ -57,6 +57,7 @@
   * [Split-phase electric power](https://en.wikipedia.org/wiki/Split-phase_electric_power)
 * [Two-phase electric power](https://en.wikipedia.org/wiki/Two-phase_electric_power)
 * [Three-phase electric power](https://en.wikipedia.org/wiki/Three-phase_electric_power)
+* [Renewable energy](https://en.wikipedia.org/wiki/Renewable_energy)
 * [Home energy storage](https://en.wikipedia.org/wiki/Home_energy_storage)
 * [Tesla Powerwall](https://en.wikipedia.org/wiki/Tesla_Powerwall)
 * [IEEE Power & Energy Society](https://en.wikipedia.org/wiki/IEEE_Power_%26_Energy_Society) (PES)
