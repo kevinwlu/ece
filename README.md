@@ -12,6 +12,16 @@
   * [Computation](https://en.wikipedia.org/wiki/Computation)
   * [Computer (occupation)](https://en.wikipedia.org/wiki/Computer_(occupation))
   * [Computer](https://en.wikipedia.org/wiki/Computer)
+* [IEEE Divisions - Society Groupings](https://ta.ieee.org/society-council-resources/society-and-council-operations/divisions-society-groupings)
+  1. Circuits and Devices
+  1. Industrial Applications
+  1. Communications
+  1. Electromagnetics and Radiation
+  1. Computer
+  1. Engineering and Human Environment
+  1. Computer
+  1. Signals and Vehicles
+  1. Systems and Control
 ## Seminar 1: Information Theory
 * [Information theory](https://en.wikipedia.org/wiki/Information_theory)
 * [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) 1916&mdash;2001
