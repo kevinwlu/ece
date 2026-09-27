@@ -19,6 +19,7 @@
   1. Electromagnetics and Radiation
   1. Computer
   1. Engineering and Human Environment
+  1. Power and Energy
   1. Computer
   1. Signals and Vehicles
   1. Systems and Control
