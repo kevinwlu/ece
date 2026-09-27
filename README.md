@@ -12,7 +12,7 @@
   * [Computation](https://en.wikipedia.org/wiki/Computation)
   * [Computer (occupation)](https://en.wikipedia.org/wiki/Computer_(occupation))
   * [Computer](https://en.wikipedia.org/wiki/Computer)
-* [IEEE Divisions - Society Groupings](https://ta.ieee.org/society-council-resources/society-and-council-operations/divisions-society-groupings)
+* [IEEE Divisions - Society Groupings](https://ta.ieee.org/society-council-resources/society-and-council-operations/divisions-society-groupings) of 39 technical Societies and eight Technical Councils
   1. Circuits and Devices
   1. Industrial Applications
   1. Communications
