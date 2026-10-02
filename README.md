@@ -62,6 +62,7 @@
 * [Three-phase electric power](https://en.wikipedia.org/wiki/Three-phase_electric_power)
 * [Renewable energy](https://en.wikipedia.org/wiki/Renewable_energy)
 * [Sustainable energy](https://en.wikipedia.org/wiki/Sustainable_energy)
+* [Duck curve](https://en.wikipedia.org/wiki/Duck_curve)
 * [Home energy storage](https://en.wikipedia.org/wiki/Home_energy_storage)
 * [Tesla Powerwall](https://en.wikipedia.org/wiki/Tesla_Powerwall)
 * [IEEE Power & Energy Society](https://en.wikipedia.org/wiki/IEEE_Power_%26_Energy_Society) (PES)
