@@ -46,6 +46,7 @@
 ## Seminar 3: Power Systems
 * [Electric power system](https://en.wikipedia.org/wiki/Electric_power_system)
 * [War of the currents](https://en.wikipedia.org/wiki/War_of_the_currents)
+  * [The Reason for Using Alternating Current](https://pwg.gsfc.nasa.gov/Electric/-E11-reason.htm)
 * [Transformer](https://en.wikipedia.org/wiki/Transformer)
 * [Power inverter](https://en.wikipedia.org/wiki/Power_inverter)
 * [Rectifier](https://en.wikipedia.org/wiki/Rectifier)
