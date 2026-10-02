@@ -47,6 +47,8 @@
 * [Electric power system](https://en.wikipedia.org/wiki/Electric_power_system)
 * [War of the currents](https://en.wikipedia.org/wiki/War_of_the_currents)
 * [Transformer](https://en.wikipedia.org/wiki/Transformer)
+* [Power inverter](https://en.wikipedia.org/wiki/Power_inverter)
+* [Rectifier](https://en.wikipedia.org/wiki/Rectifier)
 * [Ground and neutral](https://en.wikipedia.org/wiki/Ground_and_neutral)
 * [Electricity generation](https://en.wikipedia.org/wiki/Electricity_generation)
 * [Electric power transmission](https://en.wikipedia.org/wiki/Electric_power_transmission)
