@@ -88,6 +88,8 @@
 * [Communications satellite](https://en.wikipedia.org/wiki/Communications_satellite)
 * [Free-space optical communication](https://en.wikipedia.org/wiki/Free-space_optical_communication)
 * [Li-Fi](https://en.wikipedia.org/wiki/Li-Fi)
+* [IEEE Communictions Society](https://www.comsoc.org/) (ComSoc)
+* [IEEE Antennas and Propagation Society](https://ieeeaps.org/) (AP-S)
 ## Seminar 5: Information Networks
 * [Computer network](https://en.wikipedia.org/wiki/Computer_network)
 ## Seminar 6: Sensor Networks
