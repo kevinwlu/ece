@@ -68,7 +68,22 @@
 * [IEEE Power & Energy Society](https://en.wikipedia.org/wiki/IEEE_Power_%26_Energy_Society) (PES)
 ## Seminar 4: Wireless Communication Systems
 * [Wireless](https://en.wikipedia.org/wiki/Wireless)
+* [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency) (RF)
+* [Microwave](https://en.wikipedia.org/wiki/Microwave)
+* [Extremely high frequency](https://en.wikipedia.org/wiki/Extremely_high_frequency) (EHF)
+* [Line-of-sight propagation](https://en.wikipedia.org/wiki/Line-of-sight_propagation)
+* [Fresnel zone](https://en.wikipedia.org/wiki/Fresnel_zone)
 * [MIMO](https://en.wikipedia.org/wiki/MIMO)
+* [3GPP](https://en.wikipedia.org/wiki/3GPP)
+* [IEEE 802](https://en.wikipedia.org/wiki/IEEE_802)
+* [Spread spectrum](https://en.wikipedia.org/wiki/Spread_spectrum)
+* [Wi-Fi](https://en.wikipedia.org/wiki/Wi-Fi)
+* [Bluetooth](https://en.wikipedia.org/wiki/Bluetooth)
+* [Ultra-wideband](https://en.wikipedia.org/wiki/Ultra-wideband) (UWB)
+* [Consumer IR](https://en.wikipedia.org/wiki/Consumer_IR)
+* [LoRa](https://en.wikipedia.org/wiki/LoRa)
+* [Free-space optical communication](https://en.wikipedia.org/wiki/Free-space_optical_communication)
+* [Communications satellite](https://en.wikipedia.org/wiki/Communications_satellite)
 ## Seminar 5: Information Networks
 * [Computer network](https://en.wikipedia.org/wiki/Computer_network)
 ## Seminar 6: Sensor Networks
