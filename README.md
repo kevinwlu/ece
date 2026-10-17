@@ -67,9 +67,12 @@
 * [Tesla Powerwall](https://en.wikipedia.org/wiki/Tesla_Powerwall)
 * [IEEE Power & Energy Society](https://en.wikipedia.org/wiki/IEEE_Power_%26_Energy_Society) (PES)
 ## Seminar 4: Wireless Communication Systems
-* [Wireless](https://en.wikipedia.org/wiki/Wireless)
 * [Communication channel](https://en.wikipedia.org/wiki/Communication_channel)
+* [Wireless](https://en.wikipedia.org/wiki/Wireless)
+* [Electromagnetic radiation](https://en.wikipedia.org/wiki/Electromagnetic_radiation)
 * [Radio frequency](https://en.wikipedia.org/wiki/Radio_frequency) (RF)
+* [Radio spectrum](https://en.wikipedia.org/wiki/Radio_spectrum)
+* [ISM radio band](https://en.wikipedia.org/wiki/ISM_radio_band)
 * [Microwave](https://en.wikipedia.org/wiki/Microwave)
 * [Extremely high frequency](https://en.wikipedia.org/wiki/Extremely_high_frequency) (EHF)
 * [Line-of-sight propagation](https://en.wikipedia.org/wiki/Line-of-sight_propagation)
