@@ -64,6 +64,7 @@
 * [Sustainable energy](https://en.wikipedia.org/wiki/Sustainable_energy)
 * [Duck curve](https://en.wikipedia.org/wiki/Duck_curve)
 * [Home energy storage](https://en.wikipedia.org/wiki/Home_energy_storage)
+* [Aluminium smelting](https://en.wikipedia.org/wiki/Aluminium_smelting)
 * [Tesla Powerwall](https://en.wikipedia.org/wiki/Tesla_Powerwall)
 * [IEEE Power & Energy Society](https://en.wikipedia.org/wiki/IEEE_Power_%26_Energy_Society) (PES)
 ## Seminar 4: Wireless Communication Systems
@@ -76,6 +77,8 @@
 * [Microwave](https://en.wikipedia.org/wiki/Microwave)
 * [Extremely high frequency](https://en.wikipedia.org/wiki/Extremely_high_frequency) (EHF)
 * [Line-of-sight propagation](https://en.wikipedia.org/wiki/Line-of-sight_propagation)
+* [Path loss](https://en.wikipedia.org/wiki/Path_loss)
+* [Doppler effect](https://en.wikipedia.org/wiki/Doppler_effect)
 * [Fresnel zone](https://en.wikipedia.org/wiki/Fresnel_zone)
 * [MIMO](https://en.wikipedia.org/wiki/MIMO)
 * [Friis transmission equation](https://en.wikipedia.org/wiki/Friis_transmission_equation)
