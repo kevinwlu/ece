@@ -127,5 +127,6 @@
 * [ISO/IEC JTC 1](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1)
 ## Seminar 6: Sensor Networks
 * [Wireless sensor network](https://en.wikipedia.org/wiki/Wireless_sensor_network)
+* [Heating, ventilation, and air conditioning](https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning) (HVAC)
 ## Seminar 7: Internet of Things
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
