@@ -64,6 +64,7 @@
 * [Sustainable energy](https://en.wikipedia.org/wiki/Sustainable_energy)
 * [Duck curve](https://en.wikipedia.org/wiki/Duck_curve)
 * [Home energy storage](https://en.wikipedia.org/wiki/Home_energy_storage)
+* [Heating, ventilation, and air conditioning](https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning) (HVAC)
 * [Aluminium smelting](https://en.wikipedia.org/wiki/Aluminium_smelting)
 * [Tesla Powerwall](https://en.wikipedia.org/wiki/Tesla_Powerwall)
 * [IEEE Power & Energy Society](https://en.wikipedia.org/wiki/IEEE_Power_%26_Energy_Society) (PES)
@@ -127,6 +128,5 @@
 * [ISO/IEC JTC 1](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1)
 ## Seminar 6: Sensor Networks
 * [Wireless sensor network](https://en.wikipedia.org/wiki/Wireless_sensor_network)
-* [Heating, ventilation, and air conditioning](https://en.wikipedia.org/wiki/Heating,_ventilation,_and_air_conditioning) (HVAC)
 ## Seminar 7: Internet of Things
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
