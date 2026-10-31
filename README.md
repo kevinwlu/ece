@@ -131,6 +131,16 @@
 * [Organization for the Advancement of Structured Information Standards](https://en.wikipedia.org/wiki/OASIS_Open) (OASIS Open)
 * [ISO/IEC JTC 1](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1)
 ## Seminar 6: Sensor Networks
+* [Sensor](https://en.wikipedia.org/wiki/Sensor)
+  * [List of sensors](https://en.wikipedia.org/wiki/List_of_sensors)
+  * [Actuator](https://en.wikipedia.org/wiki/Actuator)
+* [Data acquisition](https://en.wikipedia.org/wiki/Data_acquisition)
+  * [SCADA](https://en.wikipedia.org/wiki/SCADA) 
+  * [Data logger](https://en.wikipedia.org/wiki/Data_logger)
+  * [Event data recorder](https://en.wikipedia.org/wiki/Event_data_recorder) (EDR)
+  * [Flight recorder](https://en.wikipedia.org/wiki/Flight_recorder)
 * [Wireless sensor network](https://en.wikipedia.org/wiki/Wireless_sensor_network)
 ## Seminar 7: Internet of Things
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
+* [Machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M)
+* [Message Queuing Telemetry Transport](https://en.wikipedia.org/wiki/MQTT) (MQTT)
