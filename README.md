@@ -36,6 +36,9 @@
 ## Seminar 2: Control Theory
 * [Control theory](https://en.wikipedia.org/wiki/Control_theory)
 * [Stability theory](https://en.wikipedia.org/wiki/Stability_theory)
+* [Control system](https://en.wikipedia.org/wiki/Control_system)
+* [Linear control](https://en.wikipedia.org/wiki/Linear_control)
+* [Nonlinear control](https://en.wikipedia.org/wiki/Linear_control)
 * [Bang–bang control](https://en.wikipedia.org/wiki/Bang%E2%80%93bang_control)
 * [Pafnuty Chebyshev](https://en.wikipedia.org/wiki/Pafnuty_Chebyshev) 1821&mdash;1894
 * [Andrey Markov](https://en.wikipedia.org/wiki/Andrey_Markov) 1856&mdash;1922
@@ -141,6 +144,8 @@
   * [Flight recorder](https://en.wikipedia.org/wiki/Flight_recorder)
 * [Wireless sensor network](https://en.wikipedia.org/wiki/Wireless_sensor_network)
 ## Seminar 7: Internet of Things
-* [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things)
+* [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT)
+  * [Kevin Ashton](https://en.wikipedia.org/wiki/Kevin_Ashton)
 * [Machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M)
 * [Message Queuing Telemetry Transport](https://en.wikipedia.org/wiki/MQTT) (MQTT)
+  * [Comparison of MQTT implementations](https://en.wikipedia.org/wiki/Comparison_of_MQTT_implementations)
