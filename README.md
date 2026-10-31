@@ -100,6 +100,10 @@
 ## Seminar 5: Information Networks
 * [Information and communications technology](https://en.wikipedia.org/wiki/Information_and_communications_technology) (ICT)
 * [Computer network](https://en.wikipedia.org/wiki/Computer_network)
+  * [Mischa Schwartz](https://en.wikipedia.org/wiki/Mischa_Schwartz)
+* [Reed's law](https://en.wikipedia.org/wiki/Reed%27s_law)
+  * [Sarnoff's Law](https://en.wikipedia.org/wiki/David_Sarnoff#Sarnoff's_Law)
+  * [Metcalfe's law](https://en.wikipedia.org/wiki/Metcalfe%27s_law)
 * [Open Systems Interconnection](https://en.wikipedia.org/wiki/OSI_model) (OSI)
 * [Internet](https://en.wikipedia.org/wiki/Internet)
 * [Internet protocol suite](https://en.wikipedia.org/wiki/Internet_protocol_suite)
