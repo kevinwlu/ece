@@ -154,9 +154,12 @@
   * [Serial Peripheral Interface](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (SPI)
   * [List of network buses](https://en.wikipedia.org/wiki/List_of_network_buses)
 * [Wireless sensor network](https://en.wikipedia.org/wiki/Wireless_sensor_network)
+* [*IEEE Sensors Journal*](https://en.wikipedia.org/wiki/IEEE_Sensors_Journal)
 ## Seminar 7: Internet of Things
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT)
   * [Kevin Ashton](https://en.wikipedia.org/wiki/Kevin_Ashton)
 * [Machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M)
+* [Publish–subscribe pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) (pub/sub)
 * [Message Queuing Telemetry Transport](https://en.wikipedia.org/wiki/MQTT) (MQTT)
   * [Comparison of MQTT implementations](https://en.wikipedia.org/wiki/Comparison_of_MQTT_implementations)
+* [*IEEE Internet of Things Journal*](https://en.wikipedia.org/wiki/IEEE_Internet_of_Things_Journal)
