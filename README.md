@@ -145,7 +145,7 @@
   * [Transducer](https://en.wikipedia.org/wiki/Transducer)
 * [SensorML](https://en.wikipedia.org/wiki/SensorML)
 * [Data acquisition](https://en.wikipedia.org/wiki/Data_acquisition)
-  * [SCADA](https://en.wikipedia.org/wiki/SCADA) 
+  * [SCADA](https://en.wikipedia.org/wiki/SCADA) (Supervisory control and data acquisition)
   * [Data logger](https://en.wikipedia.org/wiki/Data_logger)
   * [Event data recorder](https://en.wikipedia.org/wiki/Event_data_recorder) (EDR)
   * [Flight recorder](https://en.wikipedia.org/wiki/Flight_recorder)
