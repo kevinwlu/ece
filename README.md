@@ -152,6 +152,7 @@
 * [Serial communication](https://en.wikipedia.org/wiki/Serial_communication)
   * [Inter-Integrated Circuit](https://en.wikipedia.org/wiki/I2C) (I2C)
   * [Serial Peripheral Interface](https://en.wikipedia.org/wiki/Serial_Peripheral_Interface) (SPI)
+  * [Universal asynchronous receiver-transmitter](https://en.wikipedia.org/wiki/Universal_asynchronous_receiver-transmitter) (UART)
   * [List of network buses](https://en.wikipedia.org/wiki/List_of_network_buses)
 * [Wireless sensor network](https://en.wikipedia.org/wiki/Wireless_sensor_network)
 * [*IEEE Sensors Journal*](https://en.wikipedia.org/wiki/IEEE_Sensors_Journal)
