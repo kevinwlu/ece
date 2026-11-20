@@ -12,6 +12,8 @@
   * [Computation](https://en.wikipedia.org/wiki/Computation)
   * [Computer (occupation)](https://en.wikipedia.org/wiki/Computer_(occupation))
   * [Computer](https://en.wikipedia.org/wiki/Computer)
+* [Capability Maturity Model Integration](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration) (CMMI)
+* [Technology readiness level](https://en.wikipedia.org/wiki/Technology_readiness_level) (TRL)
 * [IEEE Divisions - Society Groupings](https://ta.ieee.org/society-council-resources/society-and-council-operations/divisions-society-groupings) of 39 technical Societies and eight Technical Councils
   1. Circuits and Devices
   1. Industrial Applications
@@ -160,7 +162,18 @@
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT)
   * [Kevin Ashton](https://en.wikipedia.org/wiki/Kevin_Ashton)
 * [Machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M)
+* [Cyber-physical system](https://en.wikipedia.org/wiki/Cyber-physical_system) (CPS)
+* [Digital twin](https://en.wikipedia.org/wiki/Digital_twin)
+* [Fourth Industrial Revolution](https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution)
+* [Mirai (malware)](https://en.wikipedia.org/wiki/Mirai_(malware))
+* [Hardware security](https://en.wikipedia.org/wiki/Hardware_security)
+* [Hardware security bug](https://en.wikipedia.org/wiki/Hardware_security_bug)
+  * [Meltdown (security vulnerability)](https://en.wikipedia.org/wiki/Meltdown_(security_vulnerability))
+  * [Spectre (security vulnerability)](https://en.wikipedia.org/wiki/Spectre_(security_vulnerability))
 * [Publish–subscribe pattern](https://en.wikipedia.org/wiki/Publish%E2%80%93subscribe_pattern) (pub/sub)
 * [Message Queuing Telemetry Transport](https://en.wikipedia.org/wiki/MQTT) (MQTT)
   * [Comparison of MQTT implementations](https://en.wikipedia.org/wiki/Comparison_of_MQTT_implementations)
+* [Matter (standard)](https://en.wikipedia.org/wiki/Matter_(standard))
+* [Thread (network protocol)](https://en.wikipedia.org/wiki/Thread_(network_protocol))
 * [*IEEE Internet of Things Journal*](https://en.wikipedia.org/wiki/IEEE_Internet_of_Things_Journal)
+* [Physical AI](https://www.nvidia.com/en-us/glossary/generative-physical-ai/)
