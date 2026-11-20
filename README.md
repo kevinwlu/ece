@@ -162,7 +162,7 @@
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT)
   * [Kevin Ashton](https://en.wikipedia.org/wiki/Kevin_Ashton)
 * [Machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M)
-  * [OneM2M)](https://en.wikipedia.org/wiki/OneM2M)
+  * [OneM2M](https://en.wikipedia.org/wiki/OneM2M)
 * [Cyber-physical system](https://en.wikipedia.org/wiki/Cyber-physical_system) (CPS)
 * [Digital twin](https://en.wikipedia.org/wiki/Digital_twin)
 * [Fourth Industrial Revolution](https://en.wikipedia.org/wiki/Fourth_Industrial_Revolution)
