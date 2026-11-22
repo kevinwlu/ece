@@ -42,6 +42,7 @@
 * [Linear control](https://en.wikipedia.org/wiki/Linear_control)
 * [Nonlinear control](https://en.wikipedia.org/wiki/Linear_control)
 * [Bang–bang control](https://en.wikipedia.org/wiki/Bang%E2%80%93bang_control)
+* [Proportional–integral–derivative (PID) controller](https://en.wikipedia.org/wiki/PID_controller)
 * [Pafnuty Chebyshev](https://en.wikipedia.org/wiki/Pafnuty_Chebyshev) 1821&mdash;1894
 * [Andrey Markov](https://en.wikipedia.org/wiki/Andrey_Markov) 1856&mdash;1922
 * [Aleksandr Lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov) 1857&mdash;1918
