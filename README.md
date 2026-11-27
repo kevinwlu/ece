@@ -122,6 +122,8 @@
 * [Computer (occupation)](https://en.wikipedia.org/wiki/Computer_(occupation))
 * [Computer](https://en.wikipedia.org/wiki/Computer)
 * [Information technology](https://en.wikipedia.org/wiki/Information_technology) (IT)
+* [Cloud computing](https://en.wikipedia.org/wiki/Cloud_computing)
+* [Edge computing](https://en.wikipedia.org/wiki/Edge_computing)
 * [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)
 * [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
 * [High-performance computing](https://en.wikipedia.org/wiki/High-performance_computing) (HPC)
