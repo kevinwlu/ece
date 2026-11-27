@@ -3,14 +3,17 @@
 * [Seedbed](https://en.wikipedia.org/wiki/Seedbed)
 * [Capability Maturity Model Integration](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration) (CMMI)
 * [Technology readiness level](https://en.wikipedia.org/wiki/Technology_readiness_level) (TRL)
-## Seminar 1: Introduction to Electrical Engineering
+## Seminar 1: Electrical Engineering (EE)
 * [Electricity](https://en.wikipedia.org/wiki/Electricity) 
 * [Electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering) (EE)
+* [Insulator (electricity)](https://en.wikipedia.org/wiki/Insulator_(electricity))
+* [Static electricity](https://en.wikipedia.org/wiki/Static_electricity)
+* [Charles-Augustin de Coulomb](https://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb) 1736&mdash;1806
+* [Coulomb's law](https://en.wikipedia.org/wiki/Coulomb's_law)
 * [Electron](https://en.wikipedia.org/wiki/Electron)
   * [Amber](https://en.wikipedia.org/wiki/Amber)
-  * [Insulator (electricity)](https://en.wikipedia.org/wiki/Insulator_(electricity))
-  * [Static electricity](https://en.wikipedia.org/wiki/Static_electricity)
 * [Electronics](https://en.wikipedia.org/wiki/Electronics)
+* [Electronics engineering](https://en.wikipedia.org/wiki/Electronics_engineering)
 * [Electronic component](https://en.wikipedia.org/wiki/Electronic_component)
 * [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
   * [Analog electronics](https://en.wikipedia.org/wiki/Analogue_electronics)
@@ -116,7 +119,7 @@
 * [Li-Fi](https://en.wikipedia.org/wiki/Li-Fi)
 * [IEEE Communictions Society](https://www.comsoc.org/) (ComSoc)
 * [IEEE Antennas and Propagation Society](https://ieeeaps.org/) (AP-S)
-## Seminar 6: Introduction to Computer Engineering
+## Seminar 6: Computer Engineering
 * [Computer engineering](https://en.wikipedia.org/wiki/Computer_engineering) (CPE)
 * [Computation](https://en.wikipedia.org/wiki/Computation)
 * [Computer (occupation)](https://en.wikipedia.org/wiki/Computer_(occupation))
