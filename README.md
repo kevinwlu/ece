@@ -15,10 +15,6 @@
   * [Coulomb's law](https://en.wikipedia.org/wiki/Coulomb's_law)
 * [Alessandro Volta](https://en.wikipedia.org/wiki/Alessandro_Volta) 1745&mdash;1827
 * [André-Marie Ampère](https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re) 1775&mdash;1836
-* [Georg Ohm](https://en.wikipedia.org/wiki/Georg_Ohm) 1789&mdash;1854
-* [Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday) 1791&mdash;1867
-* [Joseph Henry](https://en.wikipedia.org/wiki/Joseph_Henry) 1797&mdash;1878
-* [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) 1831&mdash;1879
 * [Electronics](https://en.wikipedia.org/wiki/Electronics)
 * [Electronics engineering](https://en.wikipedia.org/wiki/Electronics_engineering)
 * [Electronic component](https://en.wikipedia.org/wiki/Electronic_component)
@@ -47,7 +43,10 @@
 * [Electrical network](https://en.wikipedia.org/wiki/Electrical_network)
 * [Network analysis (electrical circuits)](https://en.wikipedia.org/wiki/Network_analysis_(electrical_circuits))
 * [Ohm's law](https://en.wikipedia.org/wiki/Ohm%27s_law) 1827
-  * [Georg Ohm](https://en.wikipedia.org/wiki/Georg_Ohm) 1789&mdash;1854
+  * [Georg Ohm](https://en.wikipedia.org/wiki/Georg_Ohm) 1789&mdash;1854  
+* [Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday) 1791&mdash;1867
+* [Joseph Henry](https://en.wikipedia.org/wiki/Joseph_Henry) 1797&mdash;1878
+* [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) 1831&mdash;1879
 * [Wheatstone bridge](https://en.wikipedia.org/wiki/Wheatstone_bridge) 1833 and 1843
   * [Samuel Hunter Christie](https://en.wikipedia.org/wiki/Samuel_Hunter_Christie) 1784&mdash;1865
   * [Charles Wheatstone](https://en.wikipedia.org/wiki/Charles_Wheatstone) 1802&mdash;1875
