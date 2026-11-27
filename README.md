@@ -297,8 +297,10 @@
 * [Transformer](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture))
 * ["Attention Is All You Need"](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need) 2017
 * [Generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
+* [Chatbot](https://en.wikipedia.org/wiki/Chatbot)
 * [Foundation models](https://en.wikipedia.org/wiki/Foundation_models)
 * [Large language model](https://en.wikipedia.org/wiki/Large_language_model) (LLM)
 * [Retrieval-augmented generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) (RAG)
 * [Vibe coding](https://en.wikipedia.org/wiki/Vibe_coding)
+* [AI agent](https://en.wikipedia.org/wiki/AI_agent)
 * [Association for the Advancement of Artificial Intelligence](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence) (AAAI)
