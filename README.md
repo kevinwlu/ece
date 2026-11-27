@@ -11,6 +11,7 @@
   * [Insulator (electricity)](https://en.wikipedia.org/wiki/Insulator_(electricity))
   * [Static electricity](https://en.wikipedia.org/wiki/Static_electricity)
 * [Electronics](https://en.wikipedia.org/wiki/Electronics)
+* [Electronic component](https://en.wikipedia.org/wiki/Electronic_component)
 * [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
   * [Analog electronics](https://en.wikipedia.org/wiki/Analogue_electronics)
   * [Digital electronics](https://en.wikipedia.org/wiki/Digital_electronics)
@@ -28,6 +29,9 @@
   1. Signals and Vehicles
   1. Systems and Control
 ## Seminar 2: Electrical Network
+* [Electrical element](https://en.wikipedia.org/wiki/Electrical_element)
+* [Electronic symbol](https://en.wikipedia.org/wiki/Electronic_symbol)
+* [Circuit diagram](https://en.wikipedia.org/wiki/Circuit_diagram)
 * [Electrical network](https://en.wikipedia.org/wiki/Electrical_network)
 * [Network analysis (electrical circuits)](https://en.wikipedia.org/wiki/Network_analysis_(electrical_circuits))
 * [Ohm's law](https://en.wikipedia.org/wiki/Ohm%27s_law) 1827
