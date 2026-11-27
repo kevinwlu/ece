@@ -279,7 +279,6 @@
 * [Existential risk from artificial intelligence](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_intelligence)
 * [Progress in artificial intelligence](https://en.wikipedia.org/wiki/Progress_in_artificial_intelligence)
 * [Regulation of artificial intelligence](https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence)
-* [Association for the Advancement of Artificial Intelligence](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence) (AAAI)
 * [AI safety](https://en.wikipedia.org/wiki/AI_safety)
 * [Artificial general intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence) (AGI)
 * [Existential risk from artificial general intelligence](https://en.wikipedia.org/wiki/Existential_risk_from_artificial_general_intelligence)
@@ -297,3 +296,9 @@
 * [AI literacy](https://en.wikipedia.org/wiki/AI_literacy)
 * [Transformer](https://en.wikipedia.org/wiki/Transformer_(deep_learning_architecture))
 * ["Attention Is All You Need"](https://en.wikipedia.org/wiki/Attention_Is_All_You_Need) 2017
+* [Generative artificial intelligence](https://en.wikipedia.org/wiki/Generative_artificial_intelligence)
+* [Foundation models](https://en.wikipedia.org/wiki/Foundation_models)
+* [Large language model](https://en.wikipedia.org/wiki/Large_language_model) (LLM)
+* [Retrieval-augmented generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) (RAG)
+* [Vibe coding](https://en.wikipedia.org/wiki/Vibe_coding)
+* [Association for the Advancement of Artificial Intelligence](https://en.wikipedia.org/wiki/Association_for_the_Advancement_of_Artificial_Intelligence) (AAAI)
