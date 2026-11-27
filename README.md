@@ -104,11 +104,11 @@
 * [IEEE Information Theory Society](https://www.itsoc.org/)
 * [Robert G. Gallager](https://en.wikipedia.org/wiki/Robert_G._Gallager)
 ## Seminar 5: Computers
-* [GitHub repository](https://github.com/kevinwlu/dsd/computing)
+* [GitHub repository](https://github.com/kevinwlu/dsd#computing)
 ## Seminar 6: Semiconductors
-* [GitHub repository](https://github.com/kevinwlu/dsd/industry)
+* [GitHub repository](https://github.com/kevinwlu/dsd#industry)
 ## Seminar 7: Electronics
-* [GitHub repository](https://github.com/kevinwlu/dsd/circuit)
+* [GitHub repository](https://github.com/kevinwlu/dsd#circuit)
 ## Seminar 8: Information Networks
 * [Information and communications technology](https://en.wikipedia.org/wiki/Information_and_communications_technology) (ICT)
 * [Computer network](https://en.wikipedia.org/wiki/Computer_network)
