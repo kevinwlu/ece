@@ -9,6 +9,8 @@
 * [Insulator (electricity)](https://en.wikipedia.org/wiki/Insulator_(electricity))
 * [Static electricity](https://en.wikipedia.org/wiki/Static_electricity)
 * [William Gilbert (physicist)](https://en.wikipedia.org/wiki/William_Gilbert_(physicist)) 1544&mdash;1603
+  * [Electron](https://en.wikipedia.org/wiki/Electron)
+  * [Amber](https://en.wikipedia.org/wiki/Amber)
 * [Charles-Augustin de Coulomb](https://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb) 1736&mdash;1806
   * [Coulomb's law](https://en.wikipedia.org/wiki/Coulomb's_law)
 * [Alessandro Volta](https://en.wikipedia.org/wiki/Alessandro_Volta) 1745&mdash;1827
@@ -17,8 +19,6 @@
 * [Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday) 1791&mdash;1867
 * [Joseph Henry](https://en.wikipedia.org/wiki/Joseph_Henry) 1797&mdash;1878
 * [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) 1831&mdash;1879
-* [Electron](https://en.wikipedia.org/wiki/Electron)
-  * [Amber](https://en.wikipedia.org/wiki/Amber)
 * [Electronics](https://en.wikipedia.org/wiki/Electronics)
 * [Electronics engineering](https://en.wikipedia.org/wiki/Electronics_engineering)
 * [Electronic component](https://en.wikipedia.org/wiki/Electronic_component)
