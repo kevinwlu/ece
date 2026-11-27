@@ -103,7 +103,13 @@
 * [*A Mathematical Theory of Communication*](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)
 * [IEEE Information Theory Society](https://www.itsoc.org/)
 * [Robert G. Gallager](https://en.wikipedia.org/wiki/Robert_G._Gallager)
-## Seminar 5: Information Networks
+## Seminar 5: Computers
+* [GitHub repository](https://github.com/kevinwlu/dsd/computing)
+## Seminar 6: Semiconductors
+* [GitHub repository](https://github.com/kevinwlu/dsd/industry)
+## Seminar 7: Electronics
+* [GitHub repository](https://github.com/kevinwlu/dsd/circuit)
+## Seminar 8: Information Networks
 * [Information and communications technology](https://en.wikipedia.org/wiki/Information_and_communications_technology) (ICT)
 * [Computer network](https://en.wikipedia.org/wiki/Computer_network)
   * [Mischa Schwartz](https://en.wikipedia.org/wiki/Mischa_Schwartz)
@@ -141,7 +147,7 @@
 * [Association for Computational Linguistics](https://en.wikipedia.org/wiki/Association_for_Computational_Linguistics) (ACL)
 * [Organization for the Advancement of Structured Information Standards](https://en.wikipedia.org/wiki/OASIS_Open) (OASIS Open)
 * [ISO/IEC JTC 1](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1)
-## Seminar 6: Sensor Networks
+## Seminar 9: Sensor Networks
 * [Sensor](https://en.wikipedia.org/wiki/Sensor)
   * [List of sensors](https://en.wikipedia.org/wiki/List_of_sensors)
   * [Actuator](https://en.wikipedia.org/wiki/Actuator)
@@ -159,7 +165,7 @@
   * [List of network buses](https://en.wikipedia.org/wiki/List_of_network_buses)
 * [Wireless sensor network](https://en.wikipedia.org/wiki/Wireless_sensor_network)
 * [*IEEE Sensors Journal*](https://en.wikipedia.org/wiki/IEEE_Sensors_Journal)
-## Seminar 7: Internet of Things
+## Seminar 10: Internet of Things
 * [GitHub repository](https://github.com/kevinwlu/iot)
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT)
   * [Kevin Ashton](https://en.wikipedia.org/wiki/Kevin_Ashton)
