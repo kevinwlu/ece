@@ -1,19 +1,21 @@
 # Seminar in Electrical and Computer Engineering (ECE)
 * [Seminar](https://en.wikipedia.org/wiki/Seminar)
-  * [Seedbed](https://en.wikipedia.org/wiki/Seedbed)
+* [Seedbed](https://en.wikipedia.org/wiki/Seedbed)
+* [Capability Maturity Model Integration](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration) (CMMI)
+* [Technology readiness level](https://en.wikipedia.org/wiki/Technology_readiness_level) (TRL)
+## Seminar 1: Introduction to Electrical Engineering
+* [Electricity](https://en.wikipedia.org/wiki/Electricity) 
 * [Electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering) (EE)
-  * [Electron](https://en.wikipedia.org/wiki/Electron)
+* [Electron](https://en.wikipedia.org/wiki/Electron)
   * [Amber](https://en.wikipedia.org/wiki/Amber)
   * [Insulator (electricity)](https://en.wikipedia.org/wiki/Insulator_(electricity))
   * [Static electricity](https://en.wikipedia.org/wiki/Static_electricity)
-  * [Network analysis (electrical circuits)](https://en.wikipedia.org/wiki/Network_analysis_(electrical_circuits))
-  * [Charles Proteus Steinmetz](https://en.wikipedia.org/wiki/Charles_Proteus_Steinmetz) 1865&mdash;1923
-* [Computer engineering](https://en.wikipedia.org/wiki/Computer_engineering) (CPE)
-  * [Computation](https://en.wikipedia.org/wiki/Computation)
-  * [Computer (occupation)](https://en.wikipedia.org/wiki/Computer_(occupation))
-  * [Computer](https://en.wikipedia.org/wiki/Computer)
-* [Capability Maturity Model Integration](https://en.wikipedia.org/wiki/Capability_Maturity_Model_Integration) (CMMI)
-* [Technology readiness level](https://en.wikipedia.org/wiki/Technology_readiness_level) (TRL)
+* [Electronics](https://en.wikipedia.org/wiki/Electronics)
+* [Electronic circuit](https://en.wikipedia.org/wiki/Electronic_circuit)
+  * [Analog electronics](https://en.wikipedia.org/wiki/Analogue_electronics)
+  * [Digital electronics](https://en.wikipedia.org/wiki/Digital_electronics)
+* [Electronics industry](https://en.wikipedia.org/wiki/Electronics_industry)
+* [Institute of Electrical and Electronics Engineers](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers) (IEEE)
 * [IEEE Divisions - Society Groupings](https://ta.ieee.org/society-council-resources/society-and-council-operations/divisions-society-groupings) of 39 technical Societies and eight Technical Councils
   1. Circuits and Devices
   1. Industrial Applications
@@ -25,7 +27,24 @@
   1. Computer
   1. Signals and Vehicles
   1. Systems and Control
-## Seminar 1: Power Systems
+## Seminar 2: Electrical Network
+* [Electrical network](https://en.wikipedia.org/wiki/Electrical_network)
+* [Network analysis (electrical circuits)](https://en.wikipedia.org/wiki/Network_analysis_(electrical_circuits))
+* [Ohm's law](https://en.wikipedia.org/wiki/Ohm%27s_law) 1827
+  * [Georg Ohm](https://en.wikipedia.org/wiki/Georg_Ohm) 1789&mdash;1854
+* [Wheatstone bridge](https://en.wikipedia.org/wiki/Wheatstone_bridge) 1833 and 1843
+  * [Samuel Hunter Christie](https://en.wikipedia.org/wiki/Samuel_Hunter_Christie) 1784&mdash;1865
+  * [Charles Wheatstone](https://en.wikipedia.org/wiki/Charles_Wheatstone) 1802&mdash;1875
+* [Kirchhoff's circuit laws](https://en.wikipedia.org/wiki/Kirchhoff%27s_circuit_laws) 1845
+  * [Gustav Kirchhoff](https://en.wikipedia.org/wiki/Gustav_Kirchhoff) 1824&mdash;1887
+* [Thévenin's theorem](https://en.wikipedia.org/wiki/Th%C3%A9venin%27s_theorem) 1853 and 1883
+  * [Hermann von Helmholtz](https://en.wikipedia.org/wiki/Hermann_von_Helmholtz) 1821&mdash;1894
+  * [Léon Charles Thévenin](https://en.wikipedia.org/wiki/L%C3%A9on_Charles_Th%C3%A9venin) 1857&mdash;1926
+* [Charles Proteus Steinmetz](https://en.wikipedia.org/wiki/Charles_Proteus_Steinmetz) 1865&mdash;1923
+* [Norton's theorem](https://en.wikipedia.org/wiki/Norton%27s_theorem) 1926
+  * [Hans Ferdinand Mayer](https://en.wikipedia.org/wiki/Hans_Ferdinand_Mayer) 1895&mdash;1980
+  * [Edward Lawry Norton](https://en.wikipedia.org/wiki/Edward_Lawry_Norton) 1898&mdash;1983
+## Seminar 3: Power Systems
 * [Electric power system](https://en.wikipedia.org/wiki/Electric_power_system)
 * [War of the currents](https://en.wikipedia.org/wiki/War_of_the_currents)
   * [The Reason for Using Alternating Current](https://pwg.gsfc.nasa.gov/Electric/-E11-reason.htm)
@@ -50,7 +69,7 @@
 * [Aluminium smelting](https://en.wikipedia.org/wiki/Aluminium_smelting)
 * [Tesla Powerwall](https://en.wikipedia.org/wiki/Tesla_Powerwall)
 * [IEEE Power & Energy Society](https://en.wikipedia.org/wiki/IEEE_Power_%26_Energy_Society) (PES)
-## Seminar 2: Control Theory
+## Seminar 4: Control Theory
 * [Control theory](https://en.wikipedia.org/wiki/Control_theory)
 * [Stability theory](https://en.wikipedia.org/wiki/Stability_theory)
 * [Control system](https://en.wikipedia.org/wiki/Control_system)
@@ -64,7 +83,7 @@
 * [Harry Nyquist](https://en.wikipedia.org/wiki/Harry_Nyquist) 1889&mdash;1976
 * [Hendrik Wade Bode](https://en.wikipedia.org/wiki/Hendrik_Wade_Bode) 1905&mdash;1982
 * [IEEE Control Systems Society](https://www.ieeecss.org/) (CSS)
-## Seminar 3: Wireless Communication Systems
+## Seminar 5: Wireless Communication Systems
 * [Communication channel](https://en.wikipedia.org/wiki/Communication_channel)
 * [Wireless](https://en.wikipedia.org/wiki/Wireless)
 * [Electromagnetic radiation](https://en.wikipedia.org/wiki/Electromagnetic_radiation)
@@ -93,7 +112,31 @@
 * [Li-Fi](https://en.wikipedia.org/wiki/Li-Fi)
 * [IEEE Communictions Society](https://www.comsoc.org/) (ComSoc)
 * [IEEE Antennas and Propagation Society](https://ieeeaps.org/) (AP-S)
-## Seminar 4: Information Theory
+## Seminar 6: Introduction to Computer Engineering
+* [Computer engineering](https://en.wikipedia.org/wiki/Computer_engineering) (CPE)
+* [Computation](https://en.wikipedia.org/wiki/Computation)
+* [Computer (occupation)](https://en.wikipedia.org/wiki/Computer_(occupation))
+* [Computer](https://en.wikipedia.org/wiki/Computer)
+* [Information technology](https://en.wikipedia.org/wiki/Information_technology) (IT)
+* [Parallel computing](https://en.wikipedia.org/wiki/Parallel_computing)
+* [Supercomputer](https://en.wikipedia.org/wiki/Supercomputer)
+* [High-performance computing](https://en.wikipedia.org/wiki/High-performance_computing) (HPC)
+* [Floating point operations per second](https://en.wikipedia.org/wiki/Floating_point_operations_per_second) (FLOPS)
+* [Compute Unified Device Architecture](https://en.wikipedia.org/wiki/CUDA) (CUDA)
+* [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
+* [Flip-flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
+* [Lookup table](https://en.wikipedia.org/wiki/Lookup_table) (LUT) - see hardware LUTs
+* [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
+* [Firmware](https://en.wikipedia.org/wiki/Firmware)
+* [Hardware description language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
+* [Complex programmable logic device](https://en.wikipedia.org/wiki/Complex_programmable_logic_device) (CPLD)
+* [Field-programmable gate array](https://en.wikipedia.org/wiki/Field-programmable_gate_array) (FPGA)
+* [Artificial neural network](https://en.wikipedia.org/wiki/Artificial_neural_network) (ANN)
+* [Spatial computing](https://en.wikipedia.org/wiki/Spatial_computing)
+* [Spintronics](https://en.wikipedia.org/wiki/Spintronics)
+* [Quantum logic gate](https://en.wikipedia.org/wiki/Quantum_logic_gate)
+* [Quantum circuit](https://en.wikipedia.org/wiki/Quantum_circuit)
+## Seminar 7: Information Theory
 * [Information theory](https://en.wikipedia.org/wiki/Information_theory)
 * [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) 1916&mdash;2001
 * [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
@@ -103,12 +146,6 @@
 * [*A Mathematical Theory of Communication*](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)
 * [IEEE Information Theory Society](https://www.itsoc.org/)
 * [Robert G. Gallager](https://en.wikipedia.org/wiki/Robert_G._Gallager)
-## Seminar 5: Computers
-* [GitHub repository](https://github.com/kevinwlu/dsd#computing)
-## Seminar 6: Semiconductors
-* [GitHub repository](https://github.com/kevinwlu/dsd#industry)
-## Seminar 7: Electronics
-* [GitHub repository](https://github.com/kevinwlu/dsd#circuit)
 ## Seminar 8: Information Networks
 * [Information and communications technology](https://en.wikipedia.org/wiki/Information_and_communications_technology) (ICT)
 * [Computer network](https://en.wikipedia.org/wiki/Computer_network)
@@ -147,7 +184,34 @@
 * [Association for Computational Linguistics](https://en.wikipedia.org/wiki/Association_for_Computational_Linguistics) (ACL)
 * [Organization for the Advancement of Structured Information Standards](https://en.wikipedia.org/wiki/OASIS_Open) (OASIS Open)
 * [ISO/IEC JTC 1](https://en.wikipedia.org/wiki/ISO/IEC_JTC_1)
-## Seminar 9: Sensor Networks
+## Seminar 9: Semiconductors
+* [Semiconductor](https://en.wikipedia.org/wiki/Semiconductor)
+* [Semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry)
+* [List of semiconductor occupations](https://en.wikipedia.org/wiki/List_of_semiconductor_occupations)
+* [Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) (ASIC)
+* [Semiconductor intellectual property core](https://en.wikipedia.org/wiki/Semiconductor_intellectual_property_core) (IP core)
+* [Cleanroom](https://en.wikipedia.org/wiki/Cleanroom)
+  * [Willis Whitfield](https://en.wikipedia.org/wiki/Willis_Whitfield) 1919&mdash;2012
+* [Semiconductor device fabrication](https://en.wikipedia.org/wiki/Semiconductor_device_fabrication)
+* [Wafer](https://en.wikipedia.org/wiki/Wafer_(electronics))
+* [Yield](https://en.wikichip.org/wiki/yield) is the fraction of dies on the yielding wafers that perform properly
+* [Photolithography](https://en.wikipedia.org/wiki/Photolithography)
+* [Etching](https://en.wikipedia.org/wiki/Etching_(microfabrication))
+* [Integrated circuit](https://en.wikipedia.org/wiki/Integrated_circuit) (IC)
+* [Three-dimensional integrated circuit](https://en.wikipedia.org/wiki/Three-dimensional_integrated_circuit) (3D IC)
+* [Field-effect transistor](https://en.wikipedia.org/wiki/Field-effect_transistor) (FET)
+* [CMOS](https://en.wikipedia.org/wiki/CMOS) (Complementary metal–oxide–semiconductor)
+* [MOSFET](https://en.wikipedia.org/wiki/MOSFET) (Metal–oxide–semiconductor field-effect transistor)
+* [Carbon nanotube field-effect transistor](https://en.wikipedia.org/wiki/Carbon_nanotube_field-effect_transistor) (CNTFET)
+* [Microelectromechanical systems](https://en.wikipedia.org/wiki/Microelectromechanical_systems) (MEMS)
+* [Optical interconnect](https://en.wikipedia.org/wiki/Optical_interconnect)
+* [Photonic integrated circuit](https://en.wikipedia.org/wiki/Photonic_integrated_circuit) (PIC)
+* [Silicon photonics](https://en.wikipedia.org/wiki/Silicon_photonics) (SiPh)
+* [Advanced packaging (semiconductors)](https://en.wikipedia.org/wiki/Advanced_packaging_(semiconductors))
+* [Integrated circuit packaging](https://en.wikipedia.org/wiki/Integrated_circuit_packaging)
+* [List of integrated circuit packaging types](https://en.wikipedia.org/wiki/List_of_integrated_circuit_packaging_types)
+* [IEEE Solid-State Circuits Society](https://sscs.ieee.org/)
+## Seminar 10: Sensor Networks
 * [Sensor](https://en.wikipedia.org/wiki/Sensor)
   * [List of sensors](https://en.wikipedia.org/wiki/List_of_sensors)
   * [Actuator](https://en.wikipedia.org/wiki/Actuator)
@@ -165,7 +229,7 @@
   * [List of network buses](https://en.wikipedia.org/wiki/List_of_network_buses)
 * [Wireless sensor network](https://en.wikipedia.org/wiki/Wireless_sensor_network)
 * [*IEEE Sensors Journal*](https://en.wikipedia.org/wiki/IEEE_Sensors_Journal)
-## Seminar 10: Internet of Things
+## Seminar 11: Internet of Things
 * [GitHub repository](https://github.com/kevinwlu/iot)
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT)
   * [Kevin Ashton](https://en.wikipedia.org/wiki/Kevin_Ashton)
