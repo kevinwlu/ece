@@ -8,8 +8,14 @@
 * [Electrical engineering](https://en.wikipedia.org/wiki/Electrical_engineering) (EE)
 * [Insulator (electricity)](https://en.wikipedia.org/wiki/Insulator_(electricity))
 * [Static electricity](https://en.wikipedia.org/wiki/Static_electricity)
+* [William Gilbert (physicist)](https://en.wikipedia.org/wiki/William_Gilbert_(physicist)) 1544&mdash;1603
 * [Charles-Augustin de Coulomb](https://en.wikipedia.org/wiki/Charles-Augustin_de_Coulomb) 1736&mdash;1806
-* [Coulomb's law](https://en.wikipedia.org/wiki/Coulomb's_law)
+  * [Coulomb's law](https://en.wikipedia.org/wiki/Coulomb's_law)
+* [Alessandro Volta](https://en.wikipedia.org/wiki/Alessandro_Volta) 1745&mdash;1827
+* [André-Marie Ampère](https://en.wikipedia.org/wiki/Andr%C3%A9-Marie_Amp%C3%A8re) 1775&mdash;1836
+* [Michael Faraday](https://en.wikipedia.org/wiki/Michael_Faraday) 1791&mdash;1867
+* [Joseph Henry](https://en.wikipedia.org/wiki/Joseph_Henry) 1797&mdash;1878
+* [James Clerk Maxwell](https://en.wikipedia.org/wiki/James_Clerk_Maxwell) 1831&mdash;1879
 * [Electron](https://en.wikipedia.org/wiki/Electron)
   * [Amber](https://en.wikipedia.org/wiki/Amber)
 * [Electronics](https://en.wikipedia.org/wiki/Electronics)
@@ -31,6 +37,8 @@
   1. Computer
   1. Signals and Vehicles
   1. Systems and Control
+* [Eta Kappa Nu](https://en.wikipedia.org/wiki/Eta_Kappa_Nu) was founded on October 28, 1904
+* [IEEE-HKN Induction Ritual](https://hkn.ieee.org/wp-content/uploads/2017/02/hkn_induction_ritual.pdf)
 ## Seminar 2: Electrical Network
 * [Electrical element](https://en.wikipedia.org/wiki/Electrical_element)
 * [Electronic symbol](https://en.wikipedia.org/wiki/Electronic_symbol)
