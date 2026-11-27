@@ -127,7 +127,7 @@
 * [Li-Fi](https://en.wikipedia.org/wiki/Li-Fi)
 * [IEEE Communictions Society](https://www.comsoc.org/) (ComSoc)
 * [IEEE Antennas and Propagation Society](https://ieeeaps.org/) (AP-S)
-## Seminar 6: Computer Engineering
+## Seminar 6: Computer Engineering (CPE)
 * [Computer engineering](https://en.wikipedia.org/wiki/Computer_engineering) (CPE)
 * [Computation](https://en.wikipedia.org/wiki/Computation)
 * [Computer (occupation)](https://en.wikipedia.org/wiki/Computer_(occupation))
