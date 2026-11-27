@@ -126,6 +126,9 @@
 * [Boolean algebra](https://en.wikipedia.org/wiki/Boolean_algebra)
 * [Flip-flop](https://en.wikipedia.org/wiki/Flip-flop_(electronics))
 * [Lookup table](https://en.wikipedia.org/wiki/Lookup_table) (LUT) - see hardware LUTs
+* [Turing machine](https://en.wikipedia.org/wiki/Turing_machine)
+  * [Alan Turing](https://en.wikipedia.org/wiki/Alan_Turing) 1912&mdash;1954
+* [Finite-state machine](https://en.wikipedia.org/wiki/Finite-state_machine) (FSM)
 * [Embedded system](https://en.wikipedia.org/wiki/Embedded_system)
 * [Firmware](https://en.wikipedia.org/wiki/Firmware)
 * [Hardware description language](https://en.wikipedia.org/wiki/Hardware_description_language) (HDL)
@@ -191,6 +194,7 @@
 * [Semiconductor](https://en.wikipedia.org/wiki/Semiconductor)
 * [Semiconductor industry](https://en.wikipedia.org/wiki/Semiconductor_industry)
 * [List of semiconductor occupations](https://en.wikipedia.org/wiki/List_of_semiconductor_occupations)
+* [Electronic design automation](https://en.wikipedia.org/wiki/Electronic_design_automation) (EDA)
 * [Application-specific integrated circuit](https://en.wikipedia.org/wiki/Application-specific_integrated_circuit) (ASIC)
 * [Semiconductor intellectual property core](https://en.wikipedia.org/wiki/Semiconductor_intellectual_property_core) (IP core)
 * [Cleanroom](https://en.wikipedia.org/wiki/Cleanroom)
