@@ -25,31 +25,7 @@
   1. Computer
   1. Signals and Vehicles
   1. Systems and Control
-## Seminar 1: Information Theory
-* [Information theory](https://en.wikipedia.org/wiki/Information_theory)
-* [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) 1916&mdash;2001
-* [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
-* [Channel capacity](https://en.wikipedia.org/wiki/Channel_capacity)
-* [Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory))
-* [*A Symbolic Analysis of Relay and Switching Circuits*](https://en.wikipedia.org/wiki/A_Symbolic_Analysis_of_Relay_and_Switching_Circuits)
-* [*A Mathematical Theory of Communication*](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)
-* [IEEE Information Theory Society](https://www.itsoc.org/)
-* [Robert G. Gallager](https://en.wikipedia.org/wiki/Robert_G._Gallager)
-## Seminar 2: Control Theory
-* [Control theory](https://en.wikipedia.org/wiki/Control_theory)
-* [Stability theory](https://en.wikipedia.org/wiki/Stability_theory)
-* [Control system](https://en.wikipedia.org/wiki/Control_system)
-* [Linear control](https://en.wikipedia.org/wiki/Linear_control)
-* [Nonlinear control](https://en.wikipedia.org/wiki/Linear_control)
-* [Bang–bang control](https://en.wikipedia.org/wiki/Bang%E2%80%93bang_control)
-* [Proportional–integral–derivative (PID) controller](https://en.wikipedia.org/wiki/PID_controller)
-* [Pafnuty Chebyshev](https://en.wikipedia.org/wiki/Pafnuty_Chebyshev) 1821&mdash;1894
-* [Andrey Markov](https://en.wikipedia.org/wiki/Andrey_Markov) 1856&mdash;1922
-* [Aleksandr Lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov) 1857&mdash;1918
-* [Harry Nyquist](https://en.wikipedia.org/wiki/Harry_Nyquist) 1889&mdash;1976
-* [Hendrik Wade Bode](https://en.wikipedia.org/wiki/Hendrik_Wade_Bode) 1905&mdash;1982
-* [IEEE Control Systems Society](https://www.ieeecss.org/) (CSS)
-## Seminar 3: Power Systems
+## Seminar 1: Power Systems
 * [Electric power system](https://en.wikipedia.org/wiki/Electric_power_system)
 * [War of the currents](https://en.wikipedia.org/wiki/War_of_the_currents)
   * [The Reason for Using Alternating Current](https://pwg.gsfc.nasa.gov/Electric/-E11-reason.htm)
@@ -74,7 +50,21 @@
 * [Aluminium smelting](https://en.wikipedia.org/wiki/Aluminium_smelting)
 * [Tesla Powerwall](https://en.wikipedia.org/wiki/Tesla_Powerwall)
 * [IEEE Power & Energy Society](https://en.wikipedia.org/wiki/IEEE_Power_%26_Energy_Society) (PES)
-## Seminar 4: Wireless Communication Systems
+## Seminar 2: Control Theory
+* [Control theory](https://en.wikipedia.org/wiki/Control_theory)
+* [Stability theory](https://en.wikipedia.org/wiki/Stability_theory)
+* [Control system](https://en.wikipedia.org/wiki/Control_system)
+* [Linear control](https://en.wikipedia.org/wiki/Linear_control)
+* [Nonlinear control](https://en.wikipedia.org/wiki/Linear_control)
+* [Bang–bang control](https://en.wikipedia.org/wiki/Bang%E2%80%93bang_control)
+* [Proportional–integral–derivative (PID) controller](https://en.wikipedia.org/wiki/PID_controller)
+* [Pafnuty Chebyshev](https://en.wikipedia.org/wiki/Pafnuty_Chebyshev) 1821&mdash;1894
+* [Andrey Markov](https://en.wikipedia.org/wiki/Andrey_Markov) 1856&mdash;1922
+* [Aleksandr Lyapunov](https://en.wikipedia.org/wiki/Aleksandr_Lyapunov) 1857&mdash;1918
+* [Harry Nyquist](https://en.wikipedia.org/wiki/Harry_Nyquist) 1889&mdash;1976
+* [Hendrik Wade Bode](https://en.wikipedia.org/wiki/Hendrik_Wade_Bode) 1905&mdash;1982
+* [IEEE Control Systems Society](https://www.ieeecss.org/) (CSS)
+## Seminar 3: Wireless Communication Systems
 * [Communication channel](https://en.wikipedia.org/wiki/Communication_channel)
 * [Wireless](https://en.wikipedia.org/wiki/Wireless)
 * [Electromagnetic radiation](https://en.wikipedia.org/wiki/Electromagnetic_radiation)
@@ -103,6 +93,16 @@
 * [Li-Fi](https://en.wikipedia.org/wiki/Li-Fi)
 * [IEEE Communictions Society](https://www.comsoc.org/) (ComSoc)
 * [IEEE Antennas and Propagation Society](https://ieeeaps.org/) (AP-S)
+## Seminar 4: Information Theory
+* [Information theory](https://en.wikipedia.org/wiki/Information_theory)
+* [Claude Shannon](https://en.wikipedia.org/wiki/Claude_Shannon) 1916&mdash;2001
+* [Shannon–Hartley theorem](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
+* [Channel capacity](https://en.wikipedia.org/wiki/Channel_capacity)
+* [Entropy (information theory)](https://en.wikipedia.org/wiki/Entropy_(information_theory))
+* [*A Symbolic Analysis of Relay and Switching Circuits*](https://en.wikipedia.org/wiki/A_Symbolic_Analysis_of_Relay_and_Switching_Circuits)
+* [*A Mathematical Theory of Communication*](https://en.wikipedia.org/wiki/A_Mathematical_Theory_of_Communication)
+* [IEEE Information Theory Society](https://www.itsoc.org/)
+* [Robert G. Gallager](https://en.wikipedia.org/wiki/Robert_G._Gallager)
 ## Seminar 5: Information Networks
 * [Information and communications technology](https://en.wikipedia.org/wiki/Information_and_communications_technology) (ICT)
 * [Computer network](https://en.wikipedia.org/wiki/Computer_network)
@@ -160,6 +160,7 @@
 * [Wireless sensor network](https://en.wikipedia.org/wiki/Wireless_sensor_network)
 * [*IEEE Sensors Journal*](https://en.wikipedia.org/wiki/IEEE_Sensors_Journal)
 ## Seminar 7: Internet of Things
+* [GitHub repository](https://github.com/kevinwlu/iot)
 * [Internet of things](https://en.wikipedia.org/wiki/Internet_of_things) (IoT)
   * [Kevin Ashton](https://en.wikipedia.org/wiki/Kevin_Ashton)
 * [Machine to machine](https://en.wikipedia.org/wiki/Machine_to_machine) (M2M)
